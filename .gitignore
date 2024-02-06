@@ -1,4 +1,6 @@
 tmp/
+key.json
+*.terraform*/
 
 *.tfstate
 *.tfstate.*
